@@ -1,0 +1,42 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "json",
+  "dataset_size": 44915,
+  "description": "",
+  "download_checksums": {
+    "C:/Users/z5162987/Documents/VIP_Connected_Health_Tutorials-main/VIP_Connected_Health_Tutorials-main/Lesson 5 - Transformers and LLMs/Australian_Olympics_21ct.json": {
+      "num_bytes": 51569,
+      "checksum": null
+    }
+  },
+  "download_size": 51569,
+  "features": {
+    "title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 96484,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 44915,
+      "num_examples": 164,
+      "dataset_name": "json"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
